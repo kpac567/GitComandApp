@@ -1,4 +1,4 @@
-# What The Git
+# Git Command App
 
 ## Introduction
 
